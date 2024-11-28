@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Francis Kalu
-- 👀 I’m interested in building softwares that solves problems
+- 👀 I’m a Full stack developer that builds scalable and responsive applications
 - 💞️ I’m looking to collaborate on global softwares
 - ⚡ Fun fact: I love playing chess and Call of duty
